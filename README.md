@@ -1,1 +1,1 @@
-# colec.github.io
+# colec.cmd
